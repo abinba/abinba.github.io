@@ -1,0 +1,20 @@
+body {
+    background-color: slategray;
+}
+
+.happy {
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.sad {
+    width: 600px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.neighbor {
+    text-align: center;
+    color: darkred;
+}
